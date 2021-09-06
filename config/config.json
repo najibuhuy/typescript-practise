@@ -1,0 +1,26 @@
+{
+  "development": {
+    "username": "najib",
+    "password": "Najib_4718",
+    "database": "berlaba_test",
+    "host": "127.0.0.1",
+    "port": "3306",
+    "dialect": "mysql"
+  },
+  "stg": {
+    "username": "najib",
+    "password": "Najib_4718",
+    "database": "berlaba_test",
+    "host": "127.0.0.1",
+    "port": "3306",
+    "dialect": "mysql"
+  },
+  "production": {
+    "username": "najib",
+    "password": "Najib_4718",
+    "database": "berlaba_test",
+    "host": "127.0.0.1",
+    "port": "3306",
+    "dialect": "mysql"
+  }
+}
